@@ -6,13 +6,13 @@
 - 📊 Monitoring, scaling, and optimizing for peak performance
 - 🛡️ Ensuring robust security in every deployment
 - 📚 Continuously learning and adapting in the DevOps realm
-- 🌱 I’m currently learning python as well as** AZURE**
+- 🌱 I’m currently learning python, **shellscript** as well as**AZURE**
 - 📫 How to reach me: **venkatesh.marolix@gmail.com**
 - 😄 Pronouns:He/Him.
 - 🔍 Detail-oriented problem solver
 - 😉 My Principle is **KIS**
 - Let's build, deploy, and iterate together! 🤝 #DevOps #AWS #Automation"
-- ⚡ Fun fact: I once automated myself out of a repetitive task and used the extra time to learn a new DevOps tool! 🤖💡 #EfficiencyGuru
+- ⚡ Fun fact: I once automated myself out of a repetitive task and used the extra time to learn a new DevOps tool! 🤖💡
 <!--
 **bvenkydevops/bvenkydevops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
