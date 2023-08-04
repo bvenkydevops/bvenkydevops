@@ -10,7 +10,7 @@
 - 📫 How to reach me: **venkatesh.marolix@gmail.com**
 - 😄 Pronouns:He/Him.
 - 🔍 Detail-oriented problem solver
-- 😉 My Principle is **KIS**
+- 😉 My Principle is **KIS** (not that kiss )**("keep it simple")**
 - Let's build, deploy, and iterate together! 🤝 #DevOps #AWS #Automation"
 - ⚡ Fun fact: I once automated myself out of a repetitive task and used the extra time to learn a new DevOps tool! 🤖💡
 <!--
