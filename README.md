@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Venkatesh Bojja!
-- 💼 **DevOps Engineer** at Marolix Technology Solutions pvt ltd.
+- 💼 **DevOps Engineer**
 - 🌩️ Specializing in **AWS Cloud and DevOps** practices
 - 🚀 Turning complex problems into streamlined solutions
 - 🔧 Automation enthusiast, reducing manual overhead
@@ -7,7 +7,7 @@
 - 🛡️ Ensuring robust security in every deployment
 - 📚 Continuously learning and adapting in the DevOps realm
 - 🌱 I’m currently learning python, **shellscript** as well as**AZURE**
-- 📫 How to reach me: **bojjavenkatesh67@gmail.com**
+- 📫 How to reach me: **bojja6259@gmail.com**
 - 😄 Pronouns:He/Him.
 - 🔍 Detail-oriented problem solver
 - 😉 My Principle is **KIS** "not kiss" it means **keep it simple**
