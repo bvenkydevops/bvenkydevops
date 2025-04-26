@@ -7,7 +7,7 @@
 - 🛡️ Ensuring robust security in every deployment
 - 📚 Continuously learning and adapting in the DevOps realm
 - 🌱 I’m currently learning python, **shellscript** as well as**AZURE**
-- 📫 How to reach me: **bojja6259@gmail.com**
+- 📫 How to reach me: **bvenky3310@gmail.com**
 - 😄 Pronouns:He/Him.
 - 🔍 Detail-oriented problem solver
 - 😉 My Principle is **KIS** "not kiss" it means **keep it simple**
